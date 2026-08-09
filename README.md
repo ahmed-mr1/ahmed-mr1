@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ahmed Mrabet 👋</h1>
 
 <p align="center">
-  <b>IT Student @ Tunis Business School &nbsp;·&nbsp; Cloud & DevOps Explorer &nbsp;·&nbsp; Tunisia 🇹🇳</b>
+  <b>Software Engineering & Cloud DevOps &nbsp;·&nbsp; IT Student @ Tunis Business School &nbsp;·&nbsp; Tunisia 🇹🇳</b>
 </p>
 
 <p align="center">
