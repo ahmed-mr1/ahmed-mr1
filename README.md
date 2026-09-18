@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ahmed**, a junior IT student at **Tunis Business School (TBS)** pursuing a major in **Information Technology** and a minor in **Business Analytics**. I'm passionate about the intersection of technology and business — using cloud platforms, automation, and data to solve real-world problems.
+I'm **Ahmed**, a senior IT student at **Tunis Business School (TBS)** pursuing a major in **Information Technology** and a minor in **Business Analytics**. I'm passionate about the intersection of technology and business — using cloud platforms, automation, and data to solve real-world problems.
 
 I'm currently on a journey into the world of **DevOps and Cloud Computing**, actively exploring **Microsoft Azure** and building hands-on experience through personal and academic projects. I believe in learning by doing, and I enjoy turning ideas into working systems.
 
