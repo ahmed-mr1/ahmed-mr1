@@ -35,7 +35,7 @@ What drives me is turning an idea into a reliable, deployed system that real peo
 - 🔌 **Backend & REST APIs** — FastAPI and Flask, JWT auth, PostgreSQL
 - ☁️ **Cloud** — Microsoft Azure (App Service, PostgreSQL Flexible Server, Blob Storage, OCR) and AWS
 - ⚙️ **CI/CD** — automated build and deployment with GitHub Actions
-- 🤖 **AI integration** — RAG chatbots, LLM features, 3D fit recommendation
+- 🤖 **AI integration** — RAG chatbots, LLM features
 
 ---
 
