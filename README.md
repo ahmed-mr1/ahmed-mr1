@@ -89,7 +89,7 @@ A second-hand clothing marketplace built during my internship at [Smart for Gree
 
 Verdrobe promotes the reuse of second-hand clothing, and accurate fit recommendations aim to reduce size-related returns and textile waste.
 
-📂 [Showcase]([https://github.com/ahmed-mr1/TBS-Portal](https://github.com/ahmed-mr1/Verdrobe-Showcase)) &nbsp;·&nbsp;
+📂 [Showcase](https://github.com/ahmed-mr1/Verdrobe-Showcase) &nbsp;·&nbsp;
 
 ---
 
